@@ -13,6 +13,7 @@ public class Action2
 	
 	public static void main(String[] args) 
 	{
+		System.out.println("hello");
 		WebDriverManager.chromedriver().setup();
 	    ChromeDriver driver=new ChromeDriver();
 		driver.manage().window().maximize();
