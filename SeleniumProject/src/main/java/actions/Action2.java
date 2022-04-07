@@ -9,11 +9,11 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class Action2
 {
-	
-	
-	int x=10,  y=20, z=30;
-	
+
+	int a=100,b=200,c=300;
+
 	public static void main(String[] args) 
+
 	{
 		System.out.println("hello");
 		WebDriverManager.chromedriver().setup();
