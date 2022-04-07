@@ -9,7 +9,9 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class Action2
 {
-
+	
+	
+	int x=10,  y=20, z=30;
 	
 	public static void main(String[] args) 
 	{
